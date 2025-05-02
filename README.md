@@ -4,3 +4,11 @@
 - Langgraph
 
 My goal here is to understand langchain, langgraph and implement multiple agents
+
+# Prerequisites
+- Docker
+
+# installation Steps:
+```
+cp .env.example .env
+```
